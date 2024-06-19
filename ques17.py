@@ -1,7 +1,6 @@
 def main():
-    from collections import Counter
     str1 = input("Enter the string")
-    print(Counter(str1))
+    print(str1.title())
 
 
 if __name__ == '__main__':

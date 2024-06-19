@@ -4,33 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d372e388-d20e-425e-8d9d-d56dc0e9c6ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Assignment.py.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques 10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques 12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques 13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques 24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques 7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques 8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques4.py" afterDir="false" />
+    <list default="true" id="d372e388-d20e-425e-8d9d-d56dc0e9c6ca" name="Changes" comment="assignment 1">
+      <change afterPath="$PROJECT_DIR$/ques1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Assignment.py.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Assignment.py.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques 10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques 12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques 13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques 24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques 5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques 7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques 8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques16.py" beforeDir="false" afterPath="$PROJECT_DIR$/ques16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques18.py" beforeDir="false" afterPath="$PROJECT_DIR$/ques18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques19.py" beforeDir="false" afterPath="$PROJECT_DIR$/ques19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ques2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques20.py" beforeDir="false" afterPath="$PROJECT_DIR$/ques20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques27.py" beforeDir="false" afterPath="$PROJECT_DIR$/ques27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ques3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ques4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +71,9 @@
     "Python.sum of two numbers.executor": "Run",
     "Python.sum_nums.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/NC/PycharmProjects/Assignment.py",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/NC/PycharmProjects/assignment1",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -130,9 +137,8 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (Assignment.py)" />
       <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
@@ -163,9 +169,9 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.sum_nums" />
-      <item itemvalue="Python.sum of two numbers" />
       <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.sum of two numbers" />
+      <item itemvalue="Python.sum_nums" />
       <item itemvalue="Python tests.pytest in bin" />
     </list>
   </component>
@@ -185,6 +191,15 @@
       <option name="presentableId" value="Default" />
       <updated>1718343532183</updated>
     </task>
+    <task id="LOCAL-00001" summary="assignment 1">
+      <option name="closed" value="true" />
+      <created>1718790713469</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718790713469</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,10 +207,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="assignment 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment 1" />
   </component>
 </project>
